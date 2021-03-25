@@ -1,3 +1,3 @@
 # CarrotParsnipCNN
 Python 3
-TensorFlow
+TensorFlow 2.4.1
